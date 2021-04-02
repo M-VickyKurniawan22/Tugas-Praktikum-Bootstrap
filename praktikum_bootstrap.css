@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+.hero-banner{
+    background-color: rgb(27, 27, 27);
+    background-image: url('https://img2.pngdownload.id/20180128/gww/kisspng-cartoon-illustration-hand-drawn-camera-5a6e0961ddc533.9860486115171608019084.jpg');
+    background-size: 500px;
+    height: 500px;
+    background-position: right;
+    background-repeat: no-repeat;
+}
+
+.footer{
+    height: 50px;
+}
